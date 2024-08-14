@@ -14,7 +14,7 @@
 
    ## 🛠️ Linguagens e Ferramentas
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=ts,js,mysql)![Languages](https://go-skill-icons.vercel.app/api/icons?i=nodejs,npm,prisma,react,bootstrap,)![Languages](https://go-skill-icons.vercel.app/api/icons?i=css,html,scss,figma,git,github,postman,vscode) 
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=ts,js,mysql)![Languages](https://go-skill-icons.vercel.app/api/icons?i=nodejs,prisma,react,bootstrap,css,html,scss,figma,git)
 
 <br>
 
