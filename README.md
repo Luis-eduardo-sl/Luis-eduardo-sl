@@ -5,10 +5,8 @@
 
 - 🌱 Atualmente estou me aprofundando em TypeScript.
 - :technologist: Adoro utilizar meu conhecimento para solucionar `Problemas`.
-- :nerd_face: Sempre `aprendendo`.
 - :thinking: No momento estou aberto para uma nova `oportunidade de emprego`.
 - Sinta-se à vontade para entrar em contato comigo no [LinkedIn](www.linkedin.com/in/luis-eduardo-sl) 🏆.
-<br>
 <br>
 <br>
 
