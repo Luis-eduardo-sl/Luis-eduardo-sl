@@ -3,7 +3,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mim
 
 
-- 🌱 Atualmente estou me aprofundando em TypeScript.
+- 🌱 Atualmente estou me aprofundando em C#.
 - :technologist: Adoro utilizar meu conhecimento para solucionar `Problemas`.
 - :thinking: No momento estou aberto para uma nova `oportunidade de emprego`.
 - Sinta-se à vontade para entrar em contato comigo no [LinkedIn](www.linkedin.com/in/luis-eduardo-sl) 🏆.
