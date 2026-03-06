@@ -16,6 +16,4 @@
 
 <br>
 
-<p>Total de visitantes até agora  👇❤️</p>
-<img src="https://profile-counter.glitch.me/Luis-eduardo-sl/count.svg">
 
